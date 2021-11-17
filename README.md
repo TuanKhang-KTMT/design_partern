@@ -1,1 +1,1 @@
-# design_partern
+# change brand to view example design partern
